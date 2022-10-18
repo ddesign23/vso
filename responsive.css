@@ -1,0 +1,852 @@
+@media (max-width: 400px){
+	body{
+		resize: none;
+		margin: 0;
+		width: 100vw;
+}
+	.logo{
+		width: 80px!important;
+		margin-top: 23px!important;
+	}
+	.but1{
+		height: 13px;
+		width: 74px;
+		line-height: 13px;
+		font-size: 11px;
+		margin-top: 16px;
+	}
+	.bg-nav{
+		border-radius:  0 0 23px 23px;
+		height: 70px;
+	}
+	h1{
+		line-height: 35px;
+		width: 79vw;
+		top: 130px;
+		font-size: 10vw;
+	}
+	h1 .ex{ 
+		text-align: center;
+		margin: auto;
+	}
+	.ex h2{
+		text-align: center;
+		margin-top:25px!important;
+		width: 60vw;
+		margin: auto;
+		font-size: 17px;
+		line-height: 23px;
+		
+	}
+	.bttn{
+		margin: auto;
+		top: 160px;
+		text-align: center;
+	}
+	.bttn img{
+		width: 130px;
+	}
+	.bg-1{
+		margin-top: 70px;
+		border-radius: 23px;
+		height: 190vh;
+	}
+	.sect2 h3{
+		font-size: 15px;
+		margin-top: 210px!important;
+	}
+	.sect2 h4{
+		font-size: 22px;
+		line-height: 29px;
+		width: 85vw;
+		margin: auto;
+	}
+	.slider{
+		height: 650px;
+		
+		
+	}
+	.slide{
+		height: 80px;
+		width: 150px;
+		padding: 10px;
+	}
+	.card-2{
+	top: 0px;
+		height: 2700px;
+}
+	.card-2 h5{
+		font-size: 22px!important;
+		top: 210px;
+		text-align: center;
+		margin: auto;
+		
+	}
+	.ima{
+		display: inline-block;
+		margin-top: 240px!important;
+		
+	}
+	.card-h1{
+		flex: 100%;
+		padding: 10px;
+		position: relative;
+		text-align: center;
+		margin-left: -0px
+		
+	}
+	.card-h1 img{
+		width: 80%;
+	}
+	.card-3 h5{
+		width: 80vw;
+		font-size: 22px!important;
+		top: -70px;
+	}
+	.card-3 h3{
+		font-size: 15px!important;
+		width: 70vw;
+		margin-top: -120px!important;
+	}
+	.bttn2{
+		text-align: center;
+		width: 30vw;
+	}
+	.bttn2 img{
+		width: 90px;
+		margin-left: 27px;
+	}
+	.card-v{
+		width: 90vw;
+		height: 590px;
+		margin: auto;
+		text-align: center;	
+		border-radius: 23px;
+	}
+	.card-v video{
+		margin-top: -500px;
+		margin-left: -300px;
+		
+	}
+	.foot h5{
+		top: 60px;
+		font-size: 22px!important;
+	}
+	.foot .bttn2{
+		padding: 50px 30px;
+		text-align: center!important;
+		
+	}
+	.logofo{
+		display: none;
+		
+	}
+	.social{
+		width: 14vw;
+		margin: auto;
+		position: relative;
+		left: -25%;
+	}
+	.sm1{
+		margin: auto;
+		position: relative!important;
+		padding: 20px;
+	}
+	
+	.sm2{
+		margin: auto;
+		position: relative!important;
+		padding: 20px;
+	}
+	
+.textlt h5{
+	top: 10px;
+	font-size: 10px!important;
+	margin: auto;
+}
+	.textlt h6{
+		text-align: center;
+		position: relative;
+		top: -15px;
+		font-size: 10px;
+		margin-left: 80px;
+		width: 120px;
+		
+		
+	}
+	.foot{
+		width: 100vw;
+		margin:-10px;
+		text-align: center;
+	}
+	.textlt h7{
+		margin-top: -53px!important;
+		text-align: center;
+		margin-right: 210px;
+		font-size: 10px;
+		width: 100px;
+			
+		
+		
+		
+	}
+	
+	
+	
+	
+}
+@media (min-width: 410px) and (max-width: 575.98px) {
+	.logo{
+		width: 95px!important;
+		margin-top: 23px!important;
+	}
+	.but1{
+		height: 15px;
+		width: 100px;
+		line-height: 15px;
+	}
+	.bg-nav{
+		border-radius:  0 0 23px 23px;
+		height: 70px;
+	}
+	h1{
+		line-height: 55px;
+		width: 75vw;
+		top: 200px;
+		font-size: 9vw;
+	}
+	h1 .ex{ 
+		text-align: center;
+		margin: auto;
+	}
+	.ex h2{
+		text-align: center;
+		margin-top:45px!important;
+		width: 60vw;
+		margin: auto;
+		font-size: 21px;
+		line-height: 30px;
+		
+	}
+	.bttn{
+		margin: auto;
+		top: 240px;
+		text-align: center;
+	}
+	.bttn img{
+		width: 130px;
+	}
+	.bg-1{
+		margin-top: 70px;
+		border-radius: 23px;
+		height: 170vh;
+	}
+	.sect2 h3{
+		font-size: 18px;
+		margin-top: 380px!important;
+	}
+	.sect2 h4{
+		font-size: 36px;
+		line-height: 39px;
+	}
+	.slider{
+		height: 650px;
+		
+		
+	}
+	.slide{
+		height: 100px;
+		width: 200px;
+		padding: 20px;
+	}
+	.card-2 h5{
+		font-size: 36px!important;
+		top: -50px;
+		text-align: center;
+		margin: auto;
+		
+	}
+	.ima{
+		display: inline-block;
+		margin-top: -0px!important;
+		
+	}
+	.card-h1{
+		flex: 100%;
+		padding: 10px;
+		position: relative;
+		text-align: center;
+		margin-left: -0px
+		
+	}
+	.card-h1 img{
+		width: 80%;
+	}
+	.card-3 h5{
+		width: 80vw;
+		font-size: 36px!important;
+	}
+	.card-3 h3{
+		font-size: 18px!important;
+		width: 70vw;
+	}
+	.bttn2{
+		text-align: center;
+		position: relative;
+		width: 70vw;
+	}
+	.bttn2 img{
+		width: 120px;
+		padding: 20px;
+		margin-left: 30%;
+	}
+	.card-v{
+		width: 80vw;
+		height: 700px;
+		
+	}
+	.card-v video{
+		margin-top: -500px;
+		margin-left: -200px;
+	}
+	.foot h5{
+		top: 60px;
+		font-size: 24px!important;
+	}
+	.foot .bttn2{
+		padding: 40px 30px;
+		text-align: center!important;
+		
+	}
+	.logofo{
+		display: none;
+		
+	}
+	.social{
+		width: 20vw;
+		margin: auto;
+		position: relative;
+		left: -5%;
+	}
+	.sm1{
+		margin: auto;
+		position: relative!important;
+		padding: 20px;
+	}
+	
+	.sm2{
+		margin: auto;
+		position: relative!important;
+		padding: 20px;
+	}
+	
+.textlt h5{
+	top: 10px;
+	font-size: 12px!important;
+	margin: auto;
+}
+	.textlt h6{
+		text-align: center;
+		position: relative;
+		top: -5px;
+		font-size: 12px;
+		
+		
+	}
+	.textlt h7{
+		margin-top: -53px!important;
+		text-align: center;
+		margin-right: 120px;
+			
+		
+		
+		
+	}
+	
+}
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (min-width: 575.98px) and (max-width: 767.98px) {
+	.logo{
+		width: 95px!important;
+		margin-top: 23px!important;
+	}
+	.but1{
+		height: 15px;
+		width: 100px;
+		line-height: 15px;
+	}
+	.bg-nav{
+		border-radius:  0 0 23px 23px;
+		height: 70px;
+	}
+	h1{
+		line-height: 55px;
+		width: 75vw;
+		top: 200px;
+		font-size: 9vw;
+	}
+	h1 .ex{ 
+		text-align: center;
+		margin: auto;
+	}
+	.ex h2{
+		text-align: center;
+		margin-top:45px!important;
+		width: 60vw;
+		margin: auto;
+		font-size: 21px;
+		line-height: 30px;
+		
+	}
+	.bttn{
+		margin: auto;
+		top: 240px;
+		text-align: center;
+	}
+	.bttn img{
+		width: 130px;
+	}
+	.bg-1{
+		margin-top: 70px;
+		border-radius: 23px;
+		height: 170vh;
+	}
+	.sect2 h3{
+		font-size: 18px;
+		margin-top: 380px!important;
+	}
+	.sect2 h4{
+		font-size: 36px;
+		line-height: 39px;
+	}
+	.slider{
+		height: 650px;
+		
+		
+	}
+	.slide{
+		height: 100px;
+		width: 200px;
+		padding: 20px;
+	}
+	.card-2 h5{
+		font-size: 36px!important;
+		top: -50px;
+		text-align: center;
+		margin: auto;
+		
+	}
+	.ima{
+		display: inline-block;
+		margin-top: -0px!important;
+		
+	}
+	.card-h1{
+		flex: 100%;
+		padding: 10px;
+		position: relative;
+		text-align: center;
+		margin-left: -0px
+		
+	}
+	.card-h1 img{
+		width: 80%;
+	}
+	.card-3 h5{
+		width: 80vw;
+		font-size: 36px!important;
+	}
+	.card-3 h3{
+		font-size: 18px!important;
+		width: 70vw;
+	}
+	.bttn2{
+		text-align: center;
+		position: relative;
+		width: 70vw;
+	}
+	.bttn2 img{
+		width: 120px;
+		padding: 20px;
+		margin-left: 30%;
+	}
+	.card-v{
+		width: 80vw;
+		height: 700px;
+		
+	}
+	.card-v video{
+		margin-top: -500px;
+		margin-left: -200px;
+	}
+	.foot h5{
+		top: 60px;
+		font-size: 24px!important;
+	}
+	.foot .bttn2{
+		padding: 40px 30px;
+		text-align: center!important;
+		
+	}
+	.logofo{
+		display: none;
+		
+	}
+	.social{
+		width: 20vw;
+		margin: auto;
+		position: relative;
+		left: -2%;
+	}
+	.sm1{
+		margin: auto;
+		position: relative!important;
+		padding: 20px;
+	}
+	
+	.sm2{
+		margin: auto;
+		position: relative!important;
+		padding: 20px;
+	}
+	
+.textlt h5{
+	top: 10px;
+	font-size: 12px!important;
+	margin: auto;
+}
+	.textlt h6{
+		text-align: center;
+		position: relative;
+		top: -5px;
+		font-size: 12px;
+		
+		
+	}
+	.textlt h7{
+		margin-top: -53px!important;
+		text-align: center;
+		margin-right: 170px;
+			
+		
+		
+		
+	}
+	
+	
+}
+/* // Small devices (landscape phones, less than 768px) */
+@media (min-width: 767.98px) and (max-width: 991.98px) {
+	.logo{
+		width: 95px!important;
+		margin-top: 23px!important;
+	}
+	.but1{
+		height: 15px;
+		width: 100px;
+		line-height: 15px;
+	}
+	.bg-nav{
+		border-radius:  0 0 25px 25px;
+		height: 70px;
+	}
+	h1{
+		line-height: 85px;
+		width: 85vw;
+		top: 230px;
+		font-size: 10vw;
+	}
+	h1 .ex{ 
+		text-align: center;
+		margin: auto;
+	}
+	.ex h2{
+		text-align: center;
+		margin-top:45px!important;
+		width: 60vw;
+		margin: auto;
+		font-size: 21px;
+		line-height: 30px;
+		
+	}
+	.bttn{
+		margin: auto;
+		top: 240px;
+		text-align: center;
+	}
+	.bttn img{
+		width: 130px;
+	}
+	.bg-1{
+		margin-top: 70px;
+		border-radius: 23px;
+		height: 170vh;
+	}
+	.sect2 h3{
+		font-size: 18px;
+		margin-top: 380px!important;
+	}
+	.sect2 h4{
+		font-size: 36px;
+		line-height: 39px;
+	}
+	.slider{
+		height: 650px;
+		
+		
+	}
+	.slide{
+		height: 100px;
+		width: 200px;
+		padding: 20px;
+	}
+	.card-2 h5{
+		font-size: 36px!important;
+		top: 30px;
+		text-align: center;
+		margin: auto;
+		
+	}
+	.card-3 h5{
+		width: 60vw;
+		font-size: 36px!important;
+		top: -10px;
+	}
+	.card-3 h3{
+		font-size: 18px!important;
+		width: 70vw;
+	}
+	.bttn2{
+		text-align: center;
+		position: relative;
+		width: 70vw;
+	}
+	.bttn2 img{
+		width: 120px;
+		padding: 20px;
+		margin-left: 30%;
+	}
+	.card-v{
+		width: 80vw;
+		height: 700px;
+		
+	}
+	.card-v video{
+		margin-top: -500px;
+		margin-left: -200px;
+	}
+	.foot h5{
+		top: 60px;
+		font-size: 24px!important;
+	}
+	.foot .bttn2{
+		padding: 40px 30px;
+		text-align: center!important;
+		
+	}
+	.logofo{
+		display: none;
+		
+	}
+	.social{
+		width: 20vw;
+		margin: auto;
+		position: relative;
+		left: -2%;
+	}
+	.sm1{
+		margin: auto;
+		position: relative!important;
+		padding: 20px;
+	}
+	
+	.sm2{
+		margin: auto;
+		position: relative!important;
+		padding: 20px;
+	}
+	
+.textlt h5{
+	top: 10px;
+	font-size: 12px!important;
+	margin: auto;
+}
+	.textlt h6{
+		text-align: center;
+		position: relative;
+		top: -5px;
+		font-size: 12px;
+		
+		
+	}
+	.textlt h7{
+		margin-top: -53px!important;
+		text-align: center;
+		margin-right: 170px;
+			
+		
+		
+		
+	}
+	
+	
+}
+/* // Medium devices (tablets, less than 992px) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	
+.logo{
+		width: 95px!important;
+		margin-top: 23px!important;
+	}
+	.but1{
+		height: 15px;
+		width: 100px;
+		line-height: 15px;
+	}
+	.bg-nav{
+		border-radius:  0 0 25px 25px;
+		height: 70px;
+	}
+	h1{
+		line-height: 85px;
+		width: 85vw;
+		top: 230px;
+		font-size: 10vw;
+	}
+	h1 .ex{ 
+		text-align: center;
+		margin: auto;
+	}
+	.ex h2{
+		text-align: center;
+		margin-top:45px!important;
+		width: 60vw;
+		margin: auto;
+		font-size: 21px;
+		line-height: 30px;
+		
+	}
+	.bttn{
+		margin: auto;
+		top: 240px;
+		text-align: center;
+	}
+	.bttn img{
+		width: 130px;
+	}
+	.bg-1{
+		margin-top: 70px;
+		border-radius: 23px;
+		height: 170vh;
+	}
+	.sect2 h3{
+		font-size: 18px;
+		margin-top: 380px!important;
+	}
+	.sect2 h4{
+		font-size: 36px;
+		line-height: 39px;
+	}
+	.slider{
+		height: 650px;
+		
+		
+	}
+	.slide{
+		height: 100px;
+		width: 200px;
+		padding: 20px;
+	}
+	.card-2 h5{
+		font-size: 36px!important;
+		top: 30px;
+		text-align: center;
+		margin: auto;
+		
+	}
+	.card-3 h5{
+		width: 60vw;
+		font-size: 36px!important;
+		top: -10px;
+	}
+	.card-3 h3{
+		font-size: 18px!important;
+		width: 70vw;
+	}
+	.bttn2{
+		text-align: center;
+		position: relative;
+		width: 70vw;
+	}
+	.bttn2 img{
+		width: 120px;
+		padding: 20px;
+		margin-left: 30%;
+	}
+	.card-v{
+		width: 80vw;
+		height: 700px;
+		
+	}
+	.card-v video{
+		margin-top: -500px;
+		margin-left: -200px;
+	}
+	.foot h5{
+		top: 60px;
+		font-size: 24px!important;
+	}
+	.foot .bttn2{
+		padding: 40px 30px;
+		text-align: center!important;
+		
+	}
+	.logofo{
+		display: none;
+		
+	}
+	.social{
+		width: 20vw;
+		margin: auto;
+		position: relative;
+		left: -2%;
+	}
+	.sm1{
+		margin: auto;
+		position: relative!important;
+		padding: 20px;
+	}
+	
+	.sm2{
+		margin: auto;
+		position: relative!important;
+		padding: 20px;
+	}
+	
+.textlt h5{
+	top: 10px;
+	font-size: 12px!important;
+	margin: auto;
+}
+	.textlt h6{
+		text-align: center;
+		position: relative;
+		top: -5px;
+		font-size: 12px;
+		
+		
+	}
+	.textlt h7{
+		margin-top: -53px!important;
+		text-align: center;
+		margin-right: 170px;
+			
+		
+		
+		
+	}
+	
+	
+	
+}
+
